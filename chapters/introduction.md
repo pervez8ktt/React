@@ -59,5 +59,5 @@ import {clean} from './utility.js';
 3. Here we import all the exorted values.
 
 ```javascript
-3. import * as util from './utility.js';
+import * as util from './utility.js';
 ```
