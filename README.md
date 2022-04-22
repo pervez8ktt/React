@@ -10,4 +10,4 @@ npm start
 
 # introduction
 
-[chapters/introduction.md](Introduction)
+[Introduction.md](chapters/introduction.md)
