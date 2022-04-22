@@ -20,5 +20,5 @@ npm start
 
 # Section 1
 
-[Module introduction](chapters/section_1/module_introduction.md)
-[Hello World](chapters/section_1/hello_world.md)
+- [Module introduction](chapters/section_1/module_introduction.md)
+- [Hello World](chapters/section_1/hello_world.md)
