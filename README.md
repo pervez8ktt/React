@@ -20,7 +20,7 @@ npm start
 
 [Introduction.md](chapters/introduction.md)
 
-# Section 1
+# React Basics and working with components
 
 - [Module introduction](chapters/section_1/module_introduction.md)
 - [Hello World](chapters/section_1/hello_world.md)
@@ -30,3 +30,8 @@ npm start
 - [Adding Normal JS (V-37)](chapters/section_1/adding_basic_css.md)
 - [Buildinng wrapper component](chapters/section_1/adding_basic_css.md)
 - [Questions And Answers](chapters/section_1/q_and_a.md)
+
+# React State and working with events
+
+- [Listening to events (v-46)](chapters/section_4/event_listining.md)
+- [Working with 'State' (v-48)](chapters/section_4/working_with_satate.md)
