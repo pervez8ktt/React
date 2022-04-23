@@ -27,3 +27,4 @@ npm start
 - [Passing Data via 'Props' (v-36)](chapters/section_1/adding_basic_css.md)
 - [Adding Normal JS (V-37)](chapters/section_1/adding_basic_css.md)
 - [Buildinng wrapper component](chapters/section_1/adding_basic_css.md)
+- [Questions And Answers](chapters/section_1/q_and_a.md)
