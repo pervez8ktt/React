@@ -22,3 +22,8 @@ npm start
 
 - [Module introduction](chapters/section_1/module_introduction.md)
 - [Hello World](chapters/section_1/hello_world.md)
+- [Adding basic css (v-34)](chapters/section_1/adding_basic_css.md)
+- [Outputing dynamic data (v-35)](chapters/section_1/adding_basic_css.md)
+- [Passing Data via 'Props' (v-36)](chapters/section_1/adding_basic_css.md)
+- [Adding Normal JS (V-37)](chapters/section_1/adding_basic_css.md)
+- [Buildinng wrapper component](chapters/section_1/adding_basic_css.md)
