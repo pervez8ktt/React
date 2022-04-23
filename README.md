@@ -35,3 +35,7 @@ npm start
 
 - [Listening to events (v-46)](chapters/section_4/event_listining.md)
 - [Working with 'State' (v-48)](chapters/section_4/working_with_satate.md)
+- [Adding Form Inputs (v-51)](chapters/section_4/adding_form_inputs.md)
+- [Working with multiple states (v-53)](chapters/section_4/working_with_multiple_states.md)
+
+- [Updating state that depends on the previous state (v-55)]() (Revise It)
