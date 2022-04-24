@@ -37,5 +37,9 @@ npm start
 - [Working with 'State' (v-48)](chapters/section_4/working_with_satate.md)
 - [Adding Form Inputs (v-51)](chapters/section_4/adding_form_inputs.md)
 - [Working with multiple states (v-53)](chapters/section_4/working_with_multiple_states.md)
-
-- [Updating state that depends on the previous state (v-55)]() (Revise It)
+- [Updating state that depends on the previous state (v-55)](chapters/section_4/updating_state.md) (Revise It)
+- [Handling Form submission (v-56)]()
+- [Adding two way Binding(v-57)](chapters/section_4/updating_state.md)
+- [Child to parent Communication (Bottom - to - up)(v-58)](chapters/section_4/updating_state.md)
+[Slide](images/states_slides_section_4.pdf)
+- [Lifting the state up(v-59)](chapters/section_4/updating_state.md)
