@@ -59,3 +59,4 @@ npm start
 [GitHub](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/10-side-effects-reducers-context-api)
 
 - [What are *Side Effects* & Introducing *useEffect* (v-110)](chapters/section_10/side_effects.md)
+- [Using the useEffect() Hook (v-111)](chapters/section_10/side_effects.md)
