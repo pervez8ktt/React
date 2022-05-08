@@ -54,4 +54,4 @@ npm start
 
 # Section 10: Advanced: Handling Side effects, Using reducers & using Context API
 
-- 
+- [What are * Side Effects * & Introducing * useEffect *](chapters/section_10/side_effects.md)
