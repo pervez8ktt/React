@@ -56,6 +56,6 @@ npm start
 
 # Section 10: Advanced: Handling Side effects, Using reducers & using Context API
 
-[GitHUb](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/10-side-effects-reducers-context-api)
+[GitHub](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/10-side-effects-reducers-context-api)
 
 - [What are *Side Effects* & Introducing *useEffect* (v-110)](chapters/section_10/side_effects.md)
