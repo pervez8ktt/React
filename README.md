@@ -1,6 +1,8 @@
 # React
 
-[Credits to Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595350#overview)
+- [Credits to Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595350#overview)
+- [GitHub](https://github.com/pervez8ktt/react-complete-guide-code-1)
+
 
 # React Code Is Just A JS Code
 
@@ -54,4 +56,6 @@ npm start
 
 # Section 10: Advanced: Handling Side effects, Using reducers & using Context API
 
-- [What are *Side Effects* & Introducing *useEffect*](chapters/section_10/side_effects.md)
+[GitHUb](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/10-side-effects-reducers-context-api)
+
+- [What are *Side Effects* & Introducing *useEffect* (v-110)](chapters/section_10/side_effects.md)
