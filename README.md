@@ -43,3 +43,15 @@ npm start
 - [Child to parent Communication (Bottom - to - up)(v-58)](chapters/section_4/updating_state.md#child-to-parent-communication-bottom---to---upv-58)
 [Slide](images/states_slides_section_4.pdf)
 - [Lifting the state up(v-59)](chapters/section_4/updating_state.md#lifting-the-state-upv-59)
+
+# Section 5: Rendering Lists & Conditional Content
+
+
+# Section 9: Working with Fragments, Portals & "Refs"
+- [Working with Portals (v-105)](chapters/section_9/working_with_portals_and_refs.md)
+- [Working with 'Refs' (v-106)](chapters/section_9/working_with_portals_and_refs.md)
+- [Controlled vs Un Controlled components (v-107)](chapters/section_9/working_with_portals_and_refs.md) (Revise It)
+
+# Section 10: Advanced: Handling Side effects, Using reducers & using Context API
+
+- 
