@@ -1,1 +1,1 @@
-# What are * Side Effects * & Introducing * useEffect *
+# What are *Side Effects* & Introducing *useEffect*
