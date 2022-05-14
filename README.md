@@ -60,3 +60,6 @@ npm start
 
 - [What are *Side Effects* & Introducing *useEffect* (v-110)](chapters/section_10/side_effects.md)
 - [Using the useEffect() Hook (v-111)](chapters/section_10/side_effects.md)
+- [useEffect & Dependencies (v-112)](chapters/section_10/side_effects.md)
+- [Using the useEffect clean up function (v-114)](chapters/section_10/side_effects.md)
+- [Using useReducer() Hook (v-117)](chapters/section_10/use_reducer.md)

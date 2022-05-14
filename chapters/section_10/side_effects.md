@@ -85,3 +85,52 @@ code outside the **useEffect**, It will result the infinit loop.
 Here **useEffect** run only once because we used empty dependency, and will never change.
 
 If we make any change on dependency, **useEffect** will run again.
+
+# useEffect & Dependencies (v-112)
+
+As we learned above, useEffect hook will not run again, till depencies not changed. useEffect takes two arguments
+
+- useEffect function
+- array of dependencies
+
+```js
+
+useEffect(()=>{
+    setValid(enteredEmail.includes('@') & enteredPassword.trim().length>6);
+
+},[enteredEmail, enteredPassword])
+
+
+```
+
+into above example, we provided enteredEmail and enteredPassword as dependencies. So that whenever these variables changes, useEffect also run again
+
+# Using the useEffect clean up function (v-114)
+
+As we can see in above example, **useEffect** function calls on every key stroke and check form validity. If we want's to run setVAlid function after stop typing, we can do it with the help of clean up function.
+    
+- Clean up function runs automatically before next useEffect call
+- useEffect hook returns it's clean up function
+
+```js
+
+useEffect(()=>{
+
+    const timeoutHandler = setTimeout(()=>{
+        setValid(enteredEmail.includes('@') & enteredPassword.trim().length>6);
+    },500);
+
+    //Clean up function
+
+    return ()=>{
+
+        console.info("Clean up called")
+        clearTimeout(timeoutHandler)
+
+    }
+
+},[enteredEmail, enteredPassword])
+
+```
+
+# useEffect Summary (v-115)
