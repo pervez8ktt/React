@@ -64,4 +64,4 @@ npm start
 - [Using the useEffect clean up function (v-114)](chapters/section_10/side_effects.md)
 - [Using useReducer() Hook (v-117)](chapters/section_10/use_reducer.md)
 - [useState() vs useReducer() (v-120)](chapters/section_10/use_reducer.md#usestate-vs-usereducer-v-120)
-- [Introducing React Context (Context API) (v-121)](chapters/section_10/use_reducer.md#introducing-react-context-context-api-v-121)
+- [Introducing React Context (Context API) (v-121)](chapters/section_10/context_api.md)
