@@ -63,3 +63,4 @@ npm start
 - [useEffect & Dependencies (v-112)](chapters/section_10/side_effects.md)
 - [Using the useEffect clean up function (v-114)](chapters/section_10/side_effects.md)
 - [Using useReducer() Hook (v-117)](https://github.com/pervez8ktt/06-usereducer-starting-project)
+- [useState() vs useReducer() (v-120)](https://github.com/pervez8ktt/06-usereducer-starting-project#usestate-vs-usereducer-v-120)
