@@ -65,3 +65,8 @@ npm start
 - [Using useReducer() Hook (v-117)](chapters/section_10/use_reducer.md)
 - [useState() vs useReducer() (v-120)](chapters/section_10/use_reducer.md#usestate-vs-usereducer-v-120)
 - [Introducing React Context (Context API) (v-121)](chapters/section_10/context_api.md)
+
+# Section 18: Redux
+- [GitHub Sec 18](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/18-diving-into-redux)
+- [GitHub Sec 19 Advanced](https://github.com/pervez8ktt/react-complete-guide-code-1/tree/19-advanced-redux)
+- [Notes](chapters/Redex/redux.md)
