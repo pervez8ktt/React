@@ -11,12 +11,12 @@
 
 ![Redux FLow](redux_flow.png)
 
-#### Redux with @redux/toolkit
+#### Redux with @reduxjs/toolkit
 
 - To install dependencies
 
 ```cmd
-npm install redux react-redux @redux/toolkit
+npm install redux react-redux @reduxjs/toolkit
 ```
 
 - Create Slice: createSlice method is use to create reducers. It provide us action method also
